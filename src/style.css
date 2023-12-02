@@ -1,0 +1,25 @@
+body { 
+	justify-content: center;
+    align-items: center; 
+}
+.box{
+    width: 1205px;
+    height: 70px;
+    background-color: rgb(53, 53, 182);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a {
+	display: block;
+	background: #00A9D4;
+	color: #fff;
+	padding: 15px;
+	cursor: pointer;
+	text-decoration: none;
+	width: 320px;
+	text-align: center;
+	border-radius: 5px;
+	font-size: 20px;
+}
+
